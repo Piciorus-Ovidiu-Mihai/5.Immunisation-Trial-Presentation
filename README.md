@@ -17,5 +17,5 @@ I learned about ASP.NET MVC Core and API . For database we used code first with 
 For seeing this application you have to ask me to give acces to my repository.
 
 ## Programming Language
-* [C#]
-* [.NET]
+* C#
+* .NET
