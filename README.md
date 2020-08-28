@@ -1,5 +1,5 @@
 # Immunisation-Trial-Presentation
-I made this application in the program of .NET full-stack at Arobs with other four students. During this program I learned how to work in a team and on a real project.
+I made this application in the program of .NET full-stack at Arobs with other four students. During this program I learned how to work in a team on a real project.
 
 ## What I used ?
 For this application we used an API for connecting the client with the database. For the client we used ASP.NET MVC Core and we made a library for all the models.
