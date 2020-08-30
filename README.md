@@ -18,4 +18,4 @@ For seeing this application you have to ask me to give acces to my repository.
 
 ## Programming Language
 * C#
-* .NET
+* .NET Core
